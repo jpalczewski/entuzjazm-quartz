@@ -15,4 +15,4 @@ date: 2024-06-13
 
 [Źródło.](https://bmcmedicine.biomedcentral.com/articles/10.1186/s12916-016-0721-4)
 
-[^1]: do 12 gram alkolu etylowego
+[^1]: Do 12 gram alkoholu etylowego.
