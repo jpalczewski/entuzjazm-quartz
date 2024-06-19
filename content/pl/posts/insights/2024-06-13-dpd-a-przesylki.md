@@ -3,7 +3,7 @@ title: DPD a przesyłki - jak poprawić jakość niskim kosztem?
 draft: false
 tags:
   - Typ/Insight
-  - protipy
+  - Protipy
   - kurierzy
   - DPD
 aliases:
