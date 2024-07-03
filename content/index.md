@@ -1,5 +1,5 @@
 ---
-title: jpalczewski blog
+title: main page
 ---
 
 Hi there!
