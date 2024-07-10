@@ -6,6 +6,7 @@ tags:
   - IT/godot
   - claude
   - AI
+  - ChatGPT
 aliases:
   - Czy AI zastąpi programistów
 date: 2024-07-03
@@ -24,6 +25,20 @@ Działa natomiast rzemieślnicze, wyklikane przez człowieka `is`:
 Zapytacie dlaczego? Myślę że to kwestia alternatywnego do pewnego stopnia języka, z którymi LLMy jeszcze miały za mało styczności.
 
 Wracając natomiast do odpowiedzi z początku - na chwilę obecną jeszcze nie, ale przy dość dużym debugowaniu i uważności mogą być ciekawym wsparciem.
+
+## Czy #ChatGPT jest lepszy?
+
+Próbując uzyskać fajny algorytm prędkości walczę do darmowych limitów tu i tam. Chat dla odmiany jest dość oporny z umiejętnością cofania:
+![[Pasted image 20240703195616.png]]
+
+
+I gdy chcesz żeby wspiął się na wyżyny swoich możliwości:
+![[Pasted image 20240703195655.png]]
+To owszem, wspina się, ale na wyżyny halucynacji:
+
+![[Pasted image 20240703195730.png]]
+
+
 
 [^1]: Odpowiada mi najbardziej - czy to charakter odpowiedzi, ich styl i podatność na sugestie.
 [^2]: Wszystko ląduje w domyślnej gałęzi `"_":` 
