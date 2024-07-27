@@ -15,12 +15,12 @@ Na skutek jednego projektu stwierdziłem, że chcę podłubać sobie w #IT/godot
 
 Wygenerujmy sobie kod obsługi klikania myszki:
 
-![[Attachments/Pasted image 20240703174224.png]]
+![[Pasted image 20240703174224.png]]
 Jest ładnie, jest `match`, wygląda elegancko... Z tym tylko że nie działa: po dłuższym debugowaniu wyszło, że żadnej z opcji nie jest łapana[^2].
 
 Działa natomiast rzemieślnicze, wyklikane przez człowieka `is`:
 
-![[Attachments/Pasted image 20240703174620.png]]
+![[Pasted image 20240703174620.png]]
 
 Zapytacie dlaczego? Myślę że to kwestia alternatywnego do pewnego stopnia języka, z którymi LLMy jeszcze miały za mało styczności.
 
